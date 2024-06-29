@@ -13,4 +13,4 @@ Then:
 go run main.go
 ~~~
 
-You can use Postman for better usage.
+You can use [Postman](https://www.postman.com/downloads/) for better usage.
