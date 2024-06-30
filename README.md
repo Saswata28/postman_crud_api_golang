@@ -1,5 +1,5 @@
 A simple Postman CRUD API(no DB) with GO.
-Doen't have an interface.
+Doesn't have an interface.
 
 You need to have Go installed. Install it from [here](https://go.dev/dl/)
 
